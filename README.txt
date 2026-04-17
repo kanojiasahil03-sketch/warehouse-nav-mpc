@@ -1,12 +1,6 @@
 =========================================================================
-TC70048E - Automation and Control
-Assignment 1: Conference Paper
-Topic 1: Warehouse Mobile Robot Navigation Through Crowded Aisles
-
+Warehouse Mobile Robot Navigation Through Crowded Aisles
 Author:  Sahil Kanojia
-Course:  MSc Electronics and Robotics (Robotic Systems Programming)
-School:  University of West London
-Year:    2025-26
 =========================================================================
 
 
